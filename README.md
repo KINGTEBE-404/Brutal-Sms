@@ -1,6 +1,8 @@
-```php
+# Brutal Spamers
+```
 Ini Adalah Tools Spam Brutal Yang Terdiri Dari 
 Beberapa Spam Mulai Dari SMS, WHATSAPP, CALL
+Untuk Mengerjai Teman Atau MANTANN !!!
 ```
 # Usage :
 ```php
@@ -12,5 +14,5 @@ $ git clone https://github.com/KINGTEBE-404/Brutal-Sms
 $ cd Brutal-Sms
 $ python brutal.py
 ```
-Download Token [clik
+Download Token [clik here](https://cutt.
 
