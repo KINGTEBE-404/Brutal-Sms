@@ -14,5 +14,5 @@ $ git clone https://github.com/KINGTEBE-404/Brutal-Sms
 $ cd Brutal-Sms
 $ python brutal.py
 ```
-Download Token [clik here](https://cutt.
+Download Token [clik here](https://cutt.ly/LkyIU2c)
 
