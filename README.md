@@ -1,5 +1,5 @@
 # Brutal Spamers
-```
+```php
 Ini Adalah Tools Spam Brutal Yang Terdiri Dari 
 Beberapa Spam Mulai Dari SMS, WHATSAPP, CALL
 Untuk Mengerjai Teman Atau MANTANN !!!
